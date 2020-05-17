@@ -49,5 +49,5 @@ tensorflow-estimator==1.13.0
 tensorflow-tensorboard==1.5.1
 termcolor==1.1.0
 urllib3==1.13.1
-Werkzeug==0.15.2
+Werkzeug==0.15.3
 youtube-dl==2016.2.22
