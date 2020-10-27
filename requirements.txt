@@ -8,7 +8,7 @@ bleach==1.5.0
 boto==2.38.0
 pycairo>=1.13.1
 chardet==2.3.0
-cryptography==2.9.2
+cryptography==3.2
 cycler==0.10.0
 duplicity==0.8.13
 enum34==1.1.6
